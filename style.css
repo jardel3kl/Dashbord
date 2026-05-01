@@ -4,6 +4,10 @@
   padding: 0px;
 }
 
+
+body{
+}
+
 .container{
     display: flex;
     justify-content: center;
